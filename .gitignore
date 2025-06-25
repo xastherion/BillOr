@@ -1,0 +1,6 @@
+*.log
+*.tmp
+/build/
+/private/
+*.swp
+.DS_Store
