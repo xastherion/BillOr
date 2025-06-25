@@ -1,6 +1,6 @@
 # BillOr 🎱
 
-## Bills organizer
+## Bill_s (and invoices) Or_ganizer
 
 a VERY small program to organize invoices and bills
 
