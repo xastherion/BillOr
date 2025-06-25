@@ -14,4 +14,7 @@ ToDo's :
 
 - Put rechnungen.csv on DATA folder
 - Test if they (files and folders) exist, if <not> then create, if exist then use it
-- For "Ordner mounten" ask the script on consola for password, but should be on tkinter
+- For "Ordner mounten" ask the script on consola for password, but should be on tkinter. And... what do it?
+- Remove the section "ARTIKEL", billor should not to be a Accounting System, only a simple Invoices-organizer
+- Sort the buttons under
+- Add a Info
